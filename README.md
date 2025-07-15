@@ -214,7 +214,7 @@
                 <div>🔗 <strong>LinkedIn</strong>&nbsp;https://www.linkedin.com/in/luca-benattar-immobilier/</div>
             </div>
         </div>
-        <div class="header-right"><p></p><p><br></p><p><br></p><p></p><p><img src="https://page1.genspark.site/get_upload_url/78f8bd51023e1978e126f265a94f7d716f9e3e35ad83719600b2c9448a07e1de/default/f3a86a6b-d8ec-4ced-afd2-dfa50eefe723" alt="Inserted image" style="max-width: 100%; height: 172.2px; width: 126px;" data-height-listener-added="true"></p><br><p></p><br><p></p><br></div>
+        <div class="header-right"><p></p><p><br></p><p><br></p><p></p><p><img src="moi agence.jpg" alt="Inserted image" style="max-width: 100%; height: 172.2px; width: 126px;" data-height-listener-added="true"></p><br><p></p><br><p></p><br></div>
     </div>
 
     <div class="section">
