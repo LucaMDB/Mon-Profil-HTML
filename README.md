@@ -319,7 +319,7 @@
             <strong>Hyères – 2025</strong> • Luca Benattar
         </div>
         <div class="footer-right">
-            <div class="logo-placeholder"><p></p><p><img src="[Sel dor (1) zoom.jpeg](https://github.com/LucaMDB/Mon-Profil-HTML/blob/a150e0b92f7e2868be0ecfa6fbc6d47773fd7086/Sel%20dor%20(1)%20zoom.jpeg)" alt="Inserted image" style="max-width: 100%; height: 55.6667px; width: 128px;" data-height-listener-added="true"></p><br><p></p><br></div>
+            <div class="logo-placeholder"><p></p><p><img src="https://github.com/LucaMDB/Mon-Profil-HTML/blob/a150e0b92f7e2868be0ecfa6fbc6d47773fd7086/Sel%20dor%20(1)%20zoom.jpeg" alt="Inserted image" style="max-width: 100%; height: 55.6667px; width: 128px;" data-height-listener-added="true"></p><br><p></p><br></div>
         </div>
     </div>
 
