@@ -319,7 +319,7 @@
             <strong>Hyères – 2025</strong> • Luca Benattar
         </div>
         <div class="footer-right">
-            <div class="logo-placeholder"><p></p><p><img src="https://page1.genspark.site/get_upload_url/78f8bd51023e1978e126f265a94f7d716f9e3e35ad83719600b2c9448a07e1de/default/9553caaa-0892-4a77-97d1-a7ce79092f99" alt="Inserted image" style="max-width: 100%; height: 55.6667px; width: 128px;" data-height-listener-added="true"></p><br><p></p><br></div>
+            <div class="logo-placeholder"><p></p><p><img src="Sel dor (1) zoom.jpeg" alt="Inserted image" style="max-width: 100%; height: 55.6667px; width: 128px;" data-height-listener-added="true"></p><br><p></p><br></div>
         </div>
     </div>
 
